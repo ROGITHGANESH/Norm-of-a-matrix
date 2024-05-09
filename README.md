@@ -48,9 +48,13 @@ Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 ``
 # Output:
-1.![image](https://github.com/Kavin1311/Norm-of-a-matrix/assets/145695724/802aed46-4cd3-426a-b32e-e674d342899b)
-2.![image](https://github.com/Kavin1311/Norm-of-a-matrix/assets/145695724/ee6d8b99-680b-40c3-94dc-ac26fb882fb7)
-3.![image](https://github.com/Kavin1311/Norm-of-a-matrix/assets/145695724/fcd3cc07-450f-4478-8398-b6bad3566e48)
+# one norm of a matrix:
+![image](https://github.com/Kavin1311/Norm-of-a-matrix/assets/145695724/f99e12d0-b28c-4cd4-8ddf-69d078b2869f)
+# two norm of a matrix
+![image](https://github.com/Kavin1311/Norm-of-a-matrix/assets/145695724/538a39b4-f9ea-4d90-a70d-59992a00402c)
+# Infinity norm of a matrix
+![image](https://github.com/Kavin1311/Norm-of-a-matrix/assets/145695724/54fbeee0-e0ea-4531-b9d2-aadb9ae09f77)
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
